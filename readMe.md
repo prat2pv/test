@@ -6,3 +6,4 @@ add - track files to git
 commit - save files in git 
 push - upload git commits to remote repo like github
 pull - download from git hub to local machine
+Adding lines to see "new commit"
